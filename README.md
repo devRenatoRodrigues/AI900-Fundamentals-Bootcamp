@@ -41,15 +41,16 @@ Now we'll configure the service
 
   **Wait for the status is completed**
 
-Now we'll go to the Job tab and select car-price-predict, and click in the algorithm name
-![car-price-predict-screen](https://github.com/devRenatoRodrigues/car-price-predict/assets/115325126/326c1b10-e444-440e-abf0-a18c4fe3e20f)
-Click in Deploy then Web Service 
+Now we'll go to the Job tab and select car-price, and click in the algorithm name
+ ![After create Job](https://github.com/devRenatoRodrigues/AI900-Fundamentals-Bootcamp/assets/115325126/d391b74a-b4b7-456c-ab8e-eda255de22c4)
+Click in Deploy then Web Service
+
 
 **Coffee Break Time**
 
 Go to the Endpoints tab, when the deployment status is healthy it means that everything went well
 
 Now we have this to predict a price of car based in your Model, Price and Miles
-![Result](https://github.com/devRenatoRodrigues/car-price-predict/assets/115325126/6efff1d0-2755-493c-b28e-ff8a3230c31d)
+![Result](https://github.com/devRenatoRodrigues/AI900-Fundamentals-Bootcamp/assets/115325126/da452772-8783-4e6d-a852-8492e5213798)
 
 
