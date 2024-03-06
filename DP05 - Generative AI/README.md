@@ -1,0 +1,2 @@
+- Here we have some examples of copilot and how it works
+- A very good tool to be your assistant and help you with codes or even with design
